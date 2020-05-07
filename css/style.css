@@ -47,7 +47,7 @@ ul li.active a{
   transform:translate(-50%,-50%);
 }
 .title h1{
-  color: white;
+  color: #fc7e2f;
   font-size: 70px;
 }
 .button{
